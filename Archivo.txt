@@ -1,1 +1,2 @@
 Esto debe verse solo en rama 2
+Esto solo debe verse en el segundo Commit de Rama2
